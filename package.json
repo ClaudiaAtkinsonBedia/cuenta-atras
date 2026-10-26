@@ -1,0 +1,21 @@
+{
+  "name": "cuenta-atras de Clau y Miguel",
+  "version": "1.0.0",
+  "description": "Proyecto de laboratario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Clau y Miguel",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
